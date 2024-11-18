@@ -1,1 +1,1 @@
-# northwind-for-mariadb
+# Northwind database with MariaDB
